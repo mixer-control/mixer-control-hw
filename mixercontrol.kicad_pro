@@ -617,6 +617,10 @@
     [
       "81c0832c-2261-4aeb-aed3-1607e1258ac6",
       "Base module"
+    ],
+    [
+      "a374df6f-ace3-4338-ad94-67bd0b5789b8",
+      "Fader Module"
     ]
   ],
   "text_variables": {}

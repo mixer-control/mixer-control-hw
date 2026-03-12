@@ -47,6 +47,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 111.76 20.32)
+		(size 82.55 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a374df6f-ace3-4338-ad94-67bd0b5789b8")
+		(property "Sheetname" "Fader Module"
+			(at 111.76 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fader_module.kicad_sch"
+			(at 111.76 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mixercontrol"
+				(path "/af56a83f-2afa-49c9-bfd0-425530c60b5f"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
