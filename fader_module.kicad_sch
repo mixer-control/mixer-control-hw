@@ -7174,7 +7174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MG05254-M-RA-1N1S:MG05254-M-RA-1N1S"
 			(at 62.23 43.18 0)
 			(effects
 				(font
@@ -7647,7 +7647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MG05254-M-RA-1N1S:MG05254-M-RA-1N1S"
 			(at 99.06 41.91 0)
 			(effects
 				(font
