@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DRV8871DDAR")(type "KiCad")(uri "${KIPRJMOD}/Symbol_Libs/DRV8871DDAR")(options "")(descr ""))
+  (lib (name "1825910_6")(type "KiCad")(uri "${KIPRJMOD}/Symbol_Libs/1825910_6")(options "")(descr ""))
+  (lib (name "ATMEGA328P_AUR")(type "KiCad")(uri "${KIPRJMOD}/Symbol_Libs/ATMEGA328P_AUR")(options "")(descr ""))
+  (lib (name "BD50FC0FP-E2")(type "KiCad")(uri "${KIPRJMOD}/Symbol_Libs/BD50FC0FP-E2/footprints.pretty")(options "")(descr ""))
+  (lib (name "LMD18245T_NOPB")(type "KiCad")(uri "${KIPRJMOD}/Symbol_Libs/LMD18245T_NOPB")(options "")(descr ""))
+  (lib (name "PSM01")(type "KiCad")(uri "${KIPRJMOD}/Symbol_Libs/PSM01/footprints.pretty")(options "")(descr ""))
+)
